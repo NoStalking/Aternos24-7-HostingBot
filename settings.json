@@ -8,7 +8,7 @@
   "server": {
     "ip": "CubeShield.aternos.me",
     "port": 58676,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
