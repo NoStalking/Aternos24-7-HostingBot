@@ -8,18 +8,18 @@
   "server": {
     "ip": "CubeShield.aternos.me",
     "port": 58676,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -2468,
+    "y": 71,
+    "z": -1399
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
