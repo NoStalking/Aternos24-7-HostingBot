@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "CubeShield",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "CubeShield.aternos.me",
+    "port": 58676,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 600,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "."
       ]
     },
     "chat-log": true,
