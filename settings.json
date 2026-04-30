@@ -1,14 +1,14 @@
 {
-  "name": "Cubelovesdick",
+  "name": "cubeshield",
   "bot-account": {
-    "username": "Cubelovesdick",
+    "username": "CubeBot123",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "CubeShield.aternos.me",
     "port": 58676,
-    "version": "1.21.11",
+    "version": "1.19.2",
     "try-creative": false
   },
   "position": {
